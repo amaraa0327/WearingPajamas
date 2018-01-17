@@ -1,0 +1,7 @@
+C:\Users\amarlptp\source\repos\DocuSign\DocuSign\bin\Debug\DocuSign.exe.config
+C:\Users\amarlptp\source\repos\DocuSign\DocuSign\bin\Debug\DocuSign.exe
+C:\Users\amarlptp\source\repos\DocuSign\DocuSign\bin\Debug\DocuSign.pdb
+C:\Users\amarlptp\source\repos\DocuSign\DocuSign\obj\Debug\DocuSign.csprojResolveAssemblyReference.cache
+C:\Users\amarlptp\source\repos\DocuSign\DocuSign\obj\Debug\DocuSign.csproj.CoreCompileInputs.cache
+C:\Users\amarlptp\source\repos\DocuSign\DocuSign\obj\Debug\DocuSign.exe
+C:\Users\amarlptp\source\repos\DocuSign\DocuSign\obj\Debug\DocuSign.pdb
